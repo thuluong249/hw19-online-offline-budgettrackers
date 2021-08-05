@@ -1,6 +1,8 @@
 # hw19-online-offline-budgettrackers
 
-![bannerImage]()
+[![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+![bannerImage](./public/Images/budget.jpeg)
 
 
 # 📋 Description 📋
@@ -16,7 +18,7 @@ Offline Functionality:
 
 When brought back online:
 
-  * Offline entries should be added to tracker.  
+  * Offline entries will be added to tracker.  
 ```
 
 # 💼 Technologies Used 💼
@@ -31,14 +33,14 @@ When brought back online:
 
 # 📸 Screenshots 📸
 
-![Dashboard]()
+![Dashboard](./public/Images/add.png)
 
 
-![Addex]()
+![Subtrack](./public/Images/subtrack.png)
 
 # 🔗 Application Links
 
-* [Github]()
+* [Github]( https://thuluong249.github.io/hw19-online-offline-budgettrackers/)
 * [Heroku Deployment]()
 
 # 📱 Contact 

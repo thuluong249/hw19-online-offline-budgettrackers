@@ -38,10 +38,9 @@ When brought back online:
 
 ![Subtrack](./public/Images/subtrack.png)
 
-# 🔗 Application Links
+# 🔗 Application Link
 
 * [Github]( https://thuluong249.github.io/hw19-online-offline-budgettrackers/)
-* [Heroku Deployment]()
 
 # 📱 Contact 
 
